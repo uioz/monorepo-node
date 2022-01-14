@@ -1,5 +1,5 @@
 {
-  "name": "monorepo-node",
+  "name": "monorepo-util",
   "version": "1.0.0",
   "description": "",
   "main": "index.mjs",
